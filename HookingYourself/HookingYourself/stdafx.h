@@ -10,6 +10,8 @@
 #include <stdio.h>
 #include <tchar.h>
 
+#include "windows.h"
+#include "Dbghelp.h"
 
 
 // TODO: reference additional headers your program requires here

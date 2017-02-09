@@ -2,10 +2,8 @@
 // Programmed in Visual Studio 2015 Community Edition for Windows x64 (www.visualstudio.com)
 
 #include "stdafx.h"
-#include "afxwin.h"
+//#include "afxwin.h"
 #include <stdio.h>
-#include "Dbghelp.h"
-#include "windows.h"
 
 // The following function was copied almost verbatim from Jeffrey Richter's
 // Windows via C/C++.  Normally, you have to inject a DLL into the victim
